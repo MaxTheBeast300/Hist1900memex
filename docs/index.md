@@ -5,26 +5,30 @@ What even is the internet? If you don't know, then you're at the right place, be
 ---
 ## Sources
 
-- [@AmherstMethodOrigins2022](@AmherstMethodOrigins2022.md)
-- [@buxtonNewspapersMagazinesJournalism1998](@buxtonNewspapersMagazinesJournalism1998.md)
-- [@gitelmanAlwaysAlreadyNew2006](@gitelmanAlwaysAlreadyNew2006.md)
-- [@shivkumarClayTabletsWeb2013](@shivkumarClayTabletsWeb2013)
-- [@strawnGraceHopperCompilers2015](@strawnGraceHopperCompilers2015)
+- [[@AmherstMethodOrigins2022]]
+- [[@buxtonNewspapersMagazinesJournalism1998]]
+- [[@gitelmanAlwaysAlreadyNew2006]]
+- [[@shivkumarClayTabletsWeb2013]]
+- [[@strawnGraceHopperCompilers2015]]
 
 ---
 ## Atomic Notes
 
-- [Erasure](Erasure.md)
-- [Media as an Ecosystem](Media_as_an_ecosystem.md)
-- [Newspaper Culture](Newspaper_culture.md)
-- [Organization of Knowledge](Organization_of_knowledge.md)
-- [Transmission of Knowledge](Transmission_of_knowledge.md)
+- [[Erasure]]
+- [[Media_as_an_ecosystem]]
+- [[Newspaper_culture]]
+- [[Organization_of_knowledge]]
+- [[Transmission_of_knowledge]]
 
 ## Ideas
 
-- something
+- [[Agency]]
+- [[Who_is_left_out]]
+- [[Archives]]
 
 ---
 ## To do 
 
-- a lot... 
+- Figure out how to effectively include annotation with atomic notes instead of just summarizing and using the quotes.
+
+---
