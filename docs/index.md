@@ -1,6 +1,6 @@
-# 1 Max's Memex
+# Max's Memex
 
-What even is the internet? If you don't know, then you're at the right place, because neither do I! But let's try to learn about it little bits by bits...
+##### What even is the internet? If you don't know, then you're at the right place, because neither do I! But let's try to learn about it little bits by bits...
 
 ---
 ## Sources
