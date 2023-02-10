@@ -2,6 +2,10 @@
 
 ##### What even is the internet? If you don't know, then you're at the right place, because neither do I! But let's try to learn about it little bits by bits...
 
+Hopefully I don't break your mind, but here is how the memex is mapped so far:
+
+![Map of Memex](mapofmemex.jpg)
+
 ---
 ## Sources
 
@@ -30,5 +34,7 @@
 ## To do 
 
 - Figure out how to effectively include annotation with atomic notes instead of just summarizing and using the quotes.
+- Expand the visual mapping of the memex.
+- Expand sources and enrich perspective on the internet.
 
 ---

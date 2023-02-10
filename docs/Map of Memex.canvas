@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"9d7ae40ede98ce73","x":-1509,"y":-309,"width":400,"height":100,"type":"file","file":"website/sourceNotes/@AmherstMethodOrigins2022.md"},
+		{"id":"808d2246db5bbd9c","x":-1509,"y":-74,"width":400,"height":105,"type":"file","file":"3-atomic_notes/Organization_of_knowledge.md"},
+		{"id":"9412aca2a66aeb30","x":-1474,"y":185,"width":400,"height":100,"type":"file","file":"website/sourceNotes/@shivkumarClayTabletsWeb2013.md"},
+		{"id":"556994f05ee05739","x":-838,"y":285,"width":400,"height":97,"type":"file","file":"3-atomic_notes/Transmission_of_knowledge.md"},
+		{"id":"8249350f1a17032d","x":-741,"y":536,"width":400,"height":66,"type":"file","file":"4-Ideas_notes/Agency.md"},
+		{"id":"e984d6a05e994a22","x":-780,"y":-656,"width":400,"height":95,"type":"file","file":"website/sourceNotes/@gitelmanAlwaysAlreadyNew2006.md"},
+		{"id":"fb63b77b48127446","x":-380,"y":-209,"width":400,"height":61,"type":"file","file":"3-atomic_notes/Media_as_an_ecosystem.md"},
+		{"id":"4235b5b68d773e57","x":369,"y":305,"width":400,"height":58,"type":"file","file":"3-atomic_notes/Erasure.md"},
+		{"id":"c29086e88917e3ba","x":169,"y":-178,"width":400,"height":65,"type":"file","file":"3-atomic_notes/Newspaper_culture.md"},
+		{"id":"d7643e88c0a4562d","x":514,"y":-608,"width":400,"height":96,"type":"file","file":"website/sourceNotes/@strawnGraceHopperCompilers2015.md"},
+		{"id":"9d8cb7f23aee4bd5","x":-128,"y":-693,"width":400,"height":133,"type":"file","file":"website/sourceNotes/@buxtonNewspapersMagazinesJournalism1998.md"},
+		{"id":"2b8b25f51ba62fc7","x":272,"y":503,"width":400,"height":66,"type":"file","file":"website/thoughts/IdeaNotes/Who_is_left_out.md"}
+	],
+	"edges":[
+		{"id":"8ae7f562cae36fbd","fromNode":"9d7ae40ede98ce73","fromSide":"bottom","toNode":"808d2246db5bbd9c","toSide":"top"},
+		{"id":"af92ff9bc02d5561","fromNode":"9d8cb7f23aee4bd5","fromSide":"bottom","toNode":"c29086e88917e3ba","toSide":"top"},
+		{"id":"8f17eb048ffe37bc","fromNode":"e984d6a05e994a22","fromSide":"bottom","toNode":"fb63b77b48127446","toSide":"top"},
+		{"id":"a4b8a237fd7128ed","fromNode":"d7643e88c0a4562d","fromSide":"bottom","toNode":"4235b5b68d773e57","toSide":"top"},
+		{"id":"87bb71746f1f03bf","fromNode":"808d2246db5bbd9c","fromSide":"right","toNode":"e984d6a05e994a22","toSide":"left"},
+		{"id":"f9e27a5e79bae0f9","fromNode":"808d2246db5bbd9c","fromSide":"bottom","toNode":"9412aca2a66aeb30","toSide":"top"},
+		{"id":"5192f156e4ed5aa5","fromNode":"556994f05ee05739","fromSide":"left","toNode":"9d7ae40ede98ce73","toSide":"right"},
+		{"id":"9da310bb833134c7","fromNode":"9412aca2a66aeb30","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"bottom"},
+		{"id":"c7f2c4ab751bab56","fromNode":"556994f05ee05739","fromSide":"bottom","toNode":"8249350f1a17032d","toSide":"top"},
+		{"id":"12a6133057eeacb6","fromNode":"fb63b77b48127446","fromSide":"left","toNode":"808d2246db5bbd9c","toSide":"right"},
+		{"id":"d37f83a802727aa0","fromNode":"fb63b77b48127446","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"top"},
+		{"id":"9688d3dda265fc4f","fromNode":"c29086e88917e3ba","fromSide":"left","toNode":"fb63b77b48127446","toSide":"right"},
+		{"id":"445d98cf727868b3","fromNode":"c29086e88917e3ba","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"right"},
+		{"id":"a6f83002ebb04d09","fromNode":"4235b5b68d773e57","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"right"},
+		{"id":"9149407e64c51ccc","fromNode":"808d2246db5bbd9c","fromSide":"right","toNode":"4235b5b68d773e57","toSide":"left"},
+		{"id":"4599016137045fbe","fromNode":"4235b5b68d773e57","fromSide":"bottom","toNode":"2b8b25f51ba62fc7","toSide":"top"}
+	]
+}

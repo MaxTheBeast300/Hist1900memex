@@ -21,4 +21,6 @@ Who decides what information is being transmitted? They can play a part in this 
 
 It's important to know the hidden innovators of the internet: [Women Innovators](https://www.popularmechanics.com/culture/web/g29464718/women-internet-pioneers/)
 
+Who is left out in history? [[Who_is_left_out]]
+
 ---
