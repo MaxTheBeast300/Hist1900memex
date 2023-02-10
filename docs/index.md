@@ -5,9 +5,9 @@ What even is the internet? If you don't know, then you're at the right place, be
 ---
 ## Sources
 
-- @AmherstMethodOrigins2022
-- @gitelmanAlwaysAlreadyNew2006
-- @shivkumarClayTabletsWeb2013
+- [@AmherstMethodOrigins2022](@AmherstMethodOrigins2022.md)
+- [@gitelmanAlwaysAlreadyNew2006](@gitelmanAlwaysAlreadyNew2006.md)
+- [@shivkumarClayTabletsWeb2013](@shivkumarClayTabletsWeb2013)
 
 ---
 ## Atomic Notes
