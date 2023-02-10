@@ -19,3 +19,4 @@ tags:: Accessibility, Media, Catalogue, Control
 ### Related Links
 
 This transmission of knowledge was faciliated with the advent of the Dewey Decimal Classification Scheme, with the Anglo-Saxon agency of the Amherst College: [@AmherstMethodOrigins2022](@AmherstMethodOrigins2022.md)
+

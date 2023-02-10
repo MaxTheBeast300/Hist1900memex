@@ -11,7 +11,6 @@ tags:: Classification, Catalogue, Agency, Accessibility
 
 Kumar, Shiv. 2013. "From Clay Tablets to Web: Journey of Library Catalogue" DESIDOC Journal of Library & Information Technology 33.1: 45-54. DOI: [https://doi.org/10.14429/djlit.33.1.3729](https://doi.org/10.14429/djlit.33.1.3729).
 
-
 ---
 
 ### Summary & Key Take Aways
