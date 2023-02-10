@@ -20,4 +20,5 @@ Gitelman's introduction attempts to introduce to the readers the complexities th
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[Media as an Ecosystem](Media_as_an_ecosystem.md)

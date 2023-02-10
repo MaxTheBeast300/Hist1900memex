@@ -21,4 +21,5 @@ Kumar's article explores the act of classifying and cataloguing from as early as
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[Transmission of Knowledge](Transmission_of_knowledge.md)

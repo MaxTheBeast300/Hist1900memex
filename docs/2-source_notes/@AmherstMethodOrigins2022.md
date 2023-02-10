@@ -20,4 +20,5 @@ The article tries to locate the origin influences of the Dewey Decimal Classific
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[Organization of Knowledge](Organization_of_knowledge.md)
