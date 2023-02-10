@@ -1,13 +1,24 @@
-# Obsidian Notes
+# Max's Memex
 
-Publish your public notes with MkDocs
+What even is the internet? If you don't know, then you're at the right place, because neither do I! But let's try to learn about it little bits by bits...
 
-## Hello World!
+---
+## Sources
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+- @AmherstMethodOrigins2022
+- @gitelmanAlwaysAlreadyNew2006
+- @shivkumarClayTabletsWeb2013
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+---
+## Atomic Notes
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- something
 
-action trigger
+## Ideas
+
+- something
+
+---
+## To do 
+
+- a lot... 
