@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags::
+tags:: Agency, Digitalization, Media
 
 ### Reference 
 
@@ -15,9 +15,7 @@ Gitelman, L. 2006. “Introduction: Media as Historical Subjects,” Always alre
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+Gitelman's introduction attempts to introduce to the readers the complexities that comes with defining media and its meaning in the advent of digitalization. The author asks the question of how  we should write media history and how one goes about critiquing the changes in meaning. The author defines "media" as a medium, and therefore a medium that is subjected to agency - a media is not objective, it is selective and carefully curated. The digitalization of media is explicitly mentioned as the meaning of mediums digitalized is on a path to lose meaning of the message since everything becomes centralized. The author also argues for the authoritative presence in media. Media is therefore the result of social and economic forces, based in cultural communication, and so becomes socially influencial and authoritative. Although media can be physical and digital, it forms and shapes the same. 
 
 --- 
 

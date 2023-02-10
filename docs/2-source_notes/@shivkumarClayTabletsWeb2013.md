@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags::
+tags:: Classification, Catalogue, Agency, Accessibility
 
 ### Reference 
 
@@ -16,9 +16,7 @@ Kumar, Shiv. 2013. "From Clay Tablets to Web: Journey of Library Catalogue" DESI
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+Kumar's article explores the act of classifying and cataloguing from as early as 4000BCE to today's digital libraries. He defines classification as the systematic arrangement of documents (on shelfs), and the catalogue as the organization and identification of those documents to locate them. These two terms are referenced through a survey of history's medium of knowledge such as clay tablets, and the Alexandria Library. In the 14th century, the catalogue became an authoritative power of the church to control and organize information. It was only after World War One and World War Two that the need for coordinated catalogues. The imminent computerization of the catalogue faciliated the transmission of knowledge even further with online access to documents from anywhere in the world. The OPAC and how it could be use, Online Public Access Catalog, is carefully explained by the author, highlighting how information and searches could be manipulated, and how documents could interlink between each other, creating a interconnected network of information. 
 
 --- 
 
