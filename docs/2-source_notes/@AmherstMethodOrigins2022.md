@@ -15,9 +15,7 @@ Wiegand, Wayne A. 1998. 'The "Amherst Method": The Origins of the Dewey Decimal 
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+The article tries to locate the origin influences of the Dewey Decimal Classification Scheme. A debate started in 1945 started to investigate sources of influences like showing that Dewey may have adapted William Torrey Harris' classification system, which was based on Bacon's original structure. The article lists a few more contributors like Hegel's philosophy, and more relevant, the Amherst College community. It was through a discourse of Amherst students, professors, and libraries that he gained inspiration and guidance for his classification structure. Ultimately, the Dewey Decimal Classification Scheme flourished from White Anglo-saxon agency, and further expansions was done within the comforts of the Anglo-Saxon world. 
 
 --- 
 
