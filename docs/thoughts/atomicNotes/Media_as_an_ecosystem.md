@@ -4,7 +4,7 @@ date: 2023-02-10
 type: literature
 project: Memex1
 ---
-tags:: Atomic, Media, Ecosystem
+tags:: Memex1, Atomic, Media, Ecosystem
 
 
 Media cannot be analyzed in a vacuum as it is a result of numerous forces working symbiotically. Media is only its shell, the box that contains the ecosystem. Media is:

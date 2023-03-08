@@ -5,7 +5,7 @@ type: permanent
 project: Memex1
 ---
 
-tags::  Idea, Agency, Objectiveness
+tags::  Memex1, Idea, Agency, Objectiveness
 
 - How do you write without agency? In the lecture and in the readings, the idea of classification not being objective and the transfer of knowledge is controlled by agency constantly pops up. Could it not be argued that the very memex I am composing carries with it my own agency? For example, since I am choosing which sources I want to add, what happens to the other sources? I might consider them less "useful" or "important" for the case that I am making, so that in itself would mean that there is an agency behind my argument and learning of the history of the internet. 
 

@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags:: Source, Agency, Digitalization, Media
+tags:: Memex1, Source, Agency, Digitalization, Media
 
 ### Reference 
 

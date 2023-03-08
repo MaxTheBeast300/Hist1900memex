@@ -4,7 +4,7 @@ date: 2023-02-10
 type: literature
 project: Memex1
 ---
-tags:: Atomic, Print, Media, Ecosystem, Agency
+tags:: Memex1, Atomic, Print, Media, Ecosystem, Agency
 
 - It would seem that newspaper culture just predates the web in that it used to be the mainstream way of getting information and transmitting knowledge about the world. Printing presses would print journal articles that would then be sent to the mass. Just like the web, a cultural phenomenon would envelop the newspaper culture. People would read the news in the morning, then when arriving at work, they would discuss what they saw on the newspaper with their coworkers. This would shape a new cultural network of knowledge transmission. It is impossible to talk about newspaper without mentioning the blatant propaganda that used the medium to their advantage. As is the case with all previous transmission of knowledge, the newspaper is not without agency. Although the newspaper has largely transferred to the digital web, its issues with propaganda, false information, and agency carried to the internet.  
 

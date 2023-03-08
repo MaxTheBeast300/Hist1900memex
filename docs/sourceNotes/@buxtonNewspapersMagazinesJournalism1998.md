@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags:: Source, Canada, Print, Media, Newspaper
+tags:: Memex1, Source, Canada, Print, Media, Newspaper
 
 ### Reference 
 

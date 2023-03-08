@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags:: Source, Woman, Information, Computer, Erasure
+tags:: Memex1, Source, Woman, Information, Computer, Erasure
 
 ### Reference 
 

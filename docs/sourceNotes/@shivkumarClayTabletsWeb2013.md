@@ -5,7 +5,7 @@ type: reference
 project: Memex1
 ---
 
-tags:: Source, Classification, Catalogue, Agency, Accessibility
+tags:: Memex1, Source, Classification, Catalogue, Agency, Accessibility
 
 ### Reference 
 
