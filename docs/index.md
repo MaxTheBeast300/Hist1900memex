@@ -25,7 +25,7 @@ Hopefully I don't break your mind, but here is how the memex is mapped so far:
 - [[Newspaper_culture]]
 - [[Organization_of_knowledge]]
 - [[Transmission_of_knowledge]]
-- [[website/thoughts/atomicNotes/Competences]]
+- [[Competences]]
 - [[Imperialist_internet]]
 - [[Imperial_needs]]
 
@@ -34,7 +34,7 @@ Hopefully I don't break your mind, but here is how the memex is mapped so far:
 - [[Agency]]
 - [[Who_is_left_out]]
 - [[Archives]]
-- [[website/thoughts/IdeaNotes/Technological_stagnation]]
+- [[Technological_stagnation]]
 - [[Control]]
 
 ---
