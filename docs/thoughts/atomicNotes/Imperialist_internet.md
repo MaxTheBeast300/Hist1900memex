@@ -11,13 +11,13 @@ tags:: Memex2, imperialism, agency, control
 ---
 ### Citational Information
 
-@johntullyVictorianEcologicalDisaster2009
+[[@johntullyVictorianEcologicalDisaster2009]]
 
 ---
 
 ### Related Links
 
-Social necessities ([[memex2_atomic_notes/Competences]]) are often dictated by imperialist needs: [[Imperial_needs]]
+Social necessities ([[Competences]]) are often dictated by imperialist needs: [[Imperial_needs]]
 
 Imperial nations are often the ones who imposes [[Agency]].
 

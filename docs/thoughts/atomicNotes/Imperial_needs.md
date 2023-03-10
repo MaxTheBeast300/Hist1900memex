@@ -11,7 +11,7 @@ The telegraph connected Imperial Europe and North America, but in doing so, caus
 ---
 ### Citational Information
 
-@johntullyVictorianEcologicalDisaster2009
+[[@johntullyVictorianEcologicalDisaster2009]]
 
 ---
 

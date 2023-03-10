@@ -16,3 +16,5 @@ What happens when you have this abundance of technological competences, but no s
 # To_do
 
 - Further explore technological stagnation. Perhaps I could look at this [article](https://rootsofprogress.org/technological-stagnation#:~:text=Stagnation%20just%20means%20slower%20progress,by%20pointing%20to%20isolated%20advances).
+
+---
