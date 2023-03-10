@@ -4,7 +4,7 @@
 
 *Hopefully I don't break your mind, but here is how the memex is mapped so far:*
 
-![Map of Memex](mapofmemex1.jpg)
+![Map of Memex](mapofmemex2.jpg)
 
 ---
 ## Sources
