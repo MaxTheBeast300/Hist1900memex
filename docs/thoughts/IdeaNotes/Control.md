@@ -10,7 +10,9 @@ tags::  Memex2, control, agency, imperialism
 - What is the future of control for the internet? Lately, the increasingly obstruction of privacy on the web has instilled fear in me about how my presence will be controlled on the internet. Social Platforms are being controlled, censored, and banned throughout the world, but who decides what should be controlled? I suppose it also links back to [[Agency]]. The telegraph, the internet's first itteration, was about political power and connecting the world; today's internet is about political and social control, with a **HEAVY** emphasis on *control*. 
 
 ---
+
 - [[@johntullyVictorianEcologicalDisaster2009]]
+
 ---
 
 # To_do

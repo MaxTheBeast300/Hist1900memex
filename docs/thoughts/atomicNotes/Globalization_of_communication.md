@@ -12,6 +12,8 @@ tags:: Memex2, globalization, communication, control, imperialism, politics, tel
 ### Citational Information
 
 [[@headrickSubmarineTelegraphCables2001]]
+[[@standageVictorianInternet1999]]
+[[@macDougallPeopleNetwork2013]]
 
 ---
 
@@ -20,3 +22,5 @@ tags:: Memex2, globalization, communication, control, imperialism, politics, tel
 Globalization is not without [[Agency]]
 
 Globalization is built on imperial needs and wants: [[Imperial_needs]]
+
+---

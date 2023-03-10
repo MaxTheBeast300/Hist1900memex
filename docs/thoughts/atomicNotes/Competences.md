@@ -22,3 +22,5 @@ tags:: Memex2, competences, social necessity, emergence, telegraph, technology
 Social necessities spells the need of new technology, but it's always competence that dictates whether it can happen such as the need for classification: [[@AmherstMethodOrigins2022]]
 
 What happens when there is an abundance of competences, but a lack of social neccessity? [[Technological_stagnation]]
+
+---

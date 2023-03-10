@@ -24,3 +24,5 @@ Imperial nations are often the ones who imposes [[Agency]].
 Imperialism is all about control and power, so what is the future of control in the Internet? [[Control]]
 
 I came across this interesting news article about "digital colonialism," it shows the legacy of the imperial telegraph: [link](https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south)
+
+---

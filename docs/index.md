@@ -23,6 +23,7 @@
 - [[@johntullyVictorianEcologicalDisaster2009]]
 - [[@macDougallPeopleNetwork2013]]
 - [[@mullerCablingAtlanticWiring2016]]
+- [[@headrickSubmarineTelegraphCables2001]]
 
 ---
 ## Atomic Notes
@@ -42,6 +43,7 @@
 - [[Imperial_needs]]
 - [[Visibility_of_speech]]
 - [[Globalization_of_communication]]
+- [[Politics_of_communication]]
 
 ## Ideas
 
@@ -55,12 +57,14 @@
 
 - [[Technological_stagnation]]
 - [[Control]]
+- [[Politics_of_power]]
 
 ---
 ## Feedback from Memex 1
 
 - Greater emphasis on linking readings to the course and contradictions
 - Identified recurring themes and ideas from readings
+- Started to link outward to other people's memexes. 
 
 ## To do 
 

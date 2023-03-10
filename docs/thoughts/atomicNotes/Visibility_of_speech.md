@@ -19,3 +19,7 @@ tags:: Memex2, communication, visibility
 ### Related Links
 
 Who's voice can be made visible? You can't escape [[Agency]]
+
+Visibility of speech is enabled by globalization: [[Globalization_of_communication]]
+
+---
