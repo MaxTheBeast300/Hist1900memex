@@ -4,6 +4,7 @@ date: 2023-02-10
 type: literature
 project: Memex1
 ---
+
 tags:: Memex1, Atomic, Classification, Organization, Agency
 
 

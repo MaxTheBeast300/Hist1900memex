@@ -14,6 +14,8 @@ Hopefully I don't break your mind, but here is how the memex is mapped so far:
 - [[@gitelmanAlwaysAlreadyNew2006]]
 - [[@shivkumarClayTabletsWeb2013]]
 - [[@strawnGraceHopperCompilers2015]]
+- [[@standageVictorianInternet1999]]
+- [[@johntullyVictorianEcologicalDisaster2009]]
 
 ---
 ## Atomic Notes
@@ -23,18 +25,28 @@ Hopefully I don't break your mind, but here is how the memex is mapped so far:
 - [[Newspaper_culture]]
 - [[Organization_of_knowledge]]
 - [[Transmission_of_knowledge]]
+- [[Competences]]
+- [[Imperialist_internet]]
+- [[Imperial_needs]]
 
 ## Ideas
 
 - [[Agency]]
 - [[Who_is_left_out]]
 - [[Archives]]
+- [[Technological_stagnation]]
+- [[Control]]
 
 ---
+## Feedback from Memex 1
+
+- Greater emphasis on linking readings to the course and contradictions
+- Identified recurring themes and ideas from readings
+
 ## To do 
 
-- Figure out how to effectively include annotation with atomic notes instead of just summarizing and using the quotes.
-- Expand the visual mapping of the memex.
-- Expand sources and enrich perspective on the internet.
+- Continue expanding the visual mapping of the memex.
+- Continue expanding my sources and enrich my perspective on the internet.
+- Continue to interlink with other people's memex
 
 ---
