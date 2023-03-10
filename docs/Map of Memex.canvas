@@ -1,18 +1,25 @@
 {
 	"nodes":[
-		{"id":"9412aca2a66aeb30","x":-1972,"y":-666,"width":400,"height":100,"type":"file","file":"website/sourceNotes/@shivkumarClayTabletsWeb2013.md"},
-		{"id":"556994f05ee05739","x":-2013,"y":-166,"width":400,"height":97,"type":"file","file":"3-atomic_notes/Transmission_of_knowledge.md"},
-		{"id":"8249350f1a17032d","x":-1927,"y":221,"width":400,"height":66,"type":"file","file":"4-Ideas_notes/Agency.md"},
-		{"id":"9d7ae40ede98ce73","x":-1527,"y":-664,"width":400,"height":100,"type":"file","file":"website/sourceNotes/@AmherstMethodOrigins2022.md"},
-		{"id":"808d2246db5bbd9c","x":-1492,"y":-307,"width":400,"height":105,"type":"file","file":"3-atomic_notes/Organization_of_knowledge.md"},
-		{"id":"e984d6a05e994a22","x":-1092,"y":-657,"width":400,"height":95,"type":"file","file":"website/sourceNotes/@gitelmanAlwaysAlreadyNew2006.md"},
-		{"id":"fb63b77b48127446","x":-1038,"y":-333,"width":400,"height":61,"type":"file","file":"3-atomic_notes/Media_as_an_ecosystem.md"},
-		{"id":"065fcd65eb9caafe","x":-1238,"y":199,"width":400,"height":61,"type":"file","file":"website/thoughts/IdeaNotes/Archives.md"},
-		{"id":"9d8cb7f23aee4bd5","x":-638,"y":-695,"width":400,"height":133,"type":"file","file":"website/sourceNotes/@buxtonNewspapersMagazinesJournalism1998.md"},
-		{"id":"c29086e88917e3ba","x":-611,"y":-267,"width":400,"height":65,"type":"file","file":"3-atomic_notes/Newspaper_culture.md"},
-		{"id":"2b8b25f51ba62fc7","x":-342,"y":231,"width":400,"height":66,"type":"file","file":"website/thoughts/IdeaNotes/Who_is_left_out.md"},
-		{"id":"d7643e88c0a4562d","x":-211,"y":-657,"width":400,"height":96,"type":"file","file":"website/sourceNotes/@strawnGraceHopperCompilers2015.md"},
-		{"id":"4235b5b68d773e57","x":-142,"y":-91,"width":400,"height":58,"type":"file","file":"3-atomic_notes/Erasure.md"}
+		{"type":"file","file":"website/sourceNotes/@shivkumarClayTabletsWeb2013.md","id":"9412aca2a66aeb30","x":-1972,"y":-666,"width":400,"height":100},
+		{"type":"file","file":"website/thoughts/atomicNotes/Transmission_of_knowledge.md","id":"556994f05ee05739","x":-2013,"y":-166,"width":400,"height":97},
+		{"type":"file","file":"website/thoughts/IdeaNotes/Agency.md","id":"8249350f1a17032d","x":-1927,"y":221,"width":400,"height":66},
+		{"type":"file","file":"website/sourceNotes/@AmherstMethodOrigins2022.md","id":"9d7ae40ede98ce73","x":-1527,"y":-664,"width":400,"height":100},
+		{"type":"file","file":"website/thoughts/atomicNotes/Organization_of_knowledge.md","id":"808d2246db5bbd9c","x":-1492,"y":-307,"width":400,"height":105},
+		{"type":"file","file":"website/sourceNotes/@gitelmanAlwaysAlreadyNew2006.md","id":"e984d6a05e994a22","x":-1092,"y":-657,"width":400,"height":95},
+		{"type":"file","file":"website/thoughts/atomicNotes/Media_as_an_ecosystem.md","id":"fb63b77b48127446","x":-1038,"y":-333,"width":400,"height":61},
+		{"type":"file","file":"website/thoughts/IdeaNotes/Archives.md","id":"065fcd65eb9caafe","x":-1238,"y":199,"width":400,"height":61},
+		{"type":"file","file":"website/sourceNotes/@buxtonNewspapersMagazinesJournalism1998.md","id":"9d8cb7f23aee4bd5","x":-638,"y":-695,"width":400,"height":133},
+		{"type":"file","file":"website/thoughts/atomicNotes/Newspaper_culture.md","id":"c29086e88917e3ba","x":-611,"y":-267,"width":400,"height":65},
+		{"type":"file","file":"website/thoughts/IdeaNotes/Who_is_left_out.md","id":"2b8b25f51ba62fc7","x":-342,"y":231,"width":400,"height":66},
+		{"type":"file","file":"website/sourceNotes/@strawnGraceHopperCompilers2015.md","id":"d7643e88c0a4562d","x":-211,"y":-657,"width":400,"height":95},
+		{"type":"file","file":"website/thoughts/atomicNotes/Erasure.md","id":"4235b5b68d773e57","x":-142,"y":-91,"width":400,"height":58},
+		{"type":"file","file":"website/sourceNotes/@standageVictorianInternet1999.md","id":"1454e464ba2a91bd","x":220,"y":-665,"width":400,"height":103},
+		{"type":"file","file":"website/thoughts/IdeaNotes/Technological_stagnation.md","id":"2c83c67aab75ee22","x":280,"y":340,"width":400,"height":86},
+		{"type":"file","file":"website/thoughts/atomicNotes/Competences.md","id":"11bd4c6dec393899","x":220,"y":-369,"width":400,"height":67},
+		{"type":"file","file":"website/thoughts/atomicNotes/Imperialist_internet.md","id":"ab6c35422db29278","x":680,"y":-324,"width":400,"height":66},
+		{"type":"file","file":"website/sourceNotes/@johntullyVictorianEcologicalDisaster2009.md","id":"88613636cfb11b4e","x":680,"y":-657,"width":400,"height":95},
+		{"type":"file","file":"website/thoughts/IdeaNotes/Control.md","id":"54984ed0916985a2","x":585,"y":165,"width":400,"height":65},
+		{"id":"7908ca1c9e1962d6","x":880,"y":0,"width":400,"height":50,"type":"file","file":"website/thoughts/atomicNotes/Imperial_needs.md"}
 	],
 	"edges":[
 		{"id":"8ae7f562cae36fbd","fromNode":"9d7ae40ede98ce73","fromSide":"bottom","toNode":"808d2246db5bbd9c","toSide":"top"},
@@ -31,6 +38,15 @@
 		{"id":"10b2fa1c7f2ed872","fromNode":"556994f05ee05739","fromSide":"top","toNode":"9d7ae40ede98ce73","toSide":"left"},
 		{"id":"eba44926225dc855","fromNode":"808d2246db5bbd9c","fromSide":"left","toNode":"556994f05ee05739","toSide":"right"},
 		{"id":"63190bc49a9223dc","fromNode":"808d2246db5bbd9c","fromSide":"bottom","toNode":"065fcd65eb9caafe","toSide":"top"},
-		{"id":"ce86ce4a937bc82d","fromNode":"9412aca2a66aeb30","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"top"}
+		{"id":"ce86ce4a937bc82d","fromNode":"9412aca2a66aeb30","fromSide":"bottom","toNode":"556994f05ee05739","toSide":"top"},
+		{"id":"e57621f6d7401e33","fromNode":"1454e464ba2a91bd","fromSide":"bottom","toNode":"11bd4c6dec393899","toSide":"top"},
+		{"id":"925b3894c1ee5710","fromNode":"11bd4c6dec393899","fromSide":"left","toNode":"9d7ae40ede98ce73","toSide":"bottom"},
+		{"id":"2dca4cbcb0c08dba","fromNode":"11bd4c6dec393899","fromSide":"bottom","toNode":"2c83c67aab75ee22","toSide":"top"},
+		{"id":"d3c6052bb635d77e","fromNode":"ab6c35422db29278","fromSide":"bottom","toNode":"54984ed0916985a2","toSide":"top"},
+		{"id":"1b2703dcd3ab300a","fromNode":"88613636cfb11b4e","fromSide":"bottom","toNode":"ab6c35422db29278","toSide":"top"},
+		{"id":"0f78bd6d0f736c5e","fromNode":"ab6c35422db29278","fromSide":"left","toNode":"11bd4c6dec393899","toSide":"right"},
+		{"id":"38098d27f6bfe969","fromNode":"ab6c35422db29278","fromSide":"left","toNode":"8249350f1a17032d","toSide":"top"},
+		{"id":"29f9b6a0cafa7d36","fromNode":"ab6c35422db29278","fromSide":"bottom","toNode":"7908ca1c9e1962d6","toSide":"top"},
+		{"id":"dbf78a9c7d6892ed","fromNode":"7908ca1c9e1962d6","fromSide":"top","toNode":"ab6c35422db29278","toSide":"right"}
 	]
 }
