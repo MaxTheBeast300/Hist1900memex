@@ -59,6 +59,18 @@
 - [[Control]]
 - [[Politics_of_power]]
 
+## Interest of Research
+
+In this section, I'd like to highlight topics and key concept about the internet and its history that have started to develop as I'm building my memex. 
+
+#### Memex 1
+
+- [[Classification]]
+
+### Memex 2
+
+- [[Control_and_censorship]]
+
 ---
 ## Feedback from Memex 1
 
@@ -71,5 +83,6 @@
 - Continue expanding the visual mapping of the memex.
 - Continue expanding my sources and enrich my perspective on the internet.
 - Continue to interlink with other people's memex
+- Continue to expand interests of research surrounding the internet and its impact
 
 ---
