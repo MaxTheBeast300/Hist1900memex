@@ -1,0 +1,13 @@
+---
+Title: AI
+date: 2023-04-09
+type: permanent
+project: Memex3
+---
+
+tags::  Memex3, AI, power, politics, control, accessibility
+
+- Although I have not really explored the idea of AI in my memex, I am still profoundly interested by its development and impact on us and the internet. For this section, I would like to rely on ideas that my peers have collected in their memexes.
+- Sophie, in her [memex](https://probablyanxious.github.io/hist1900-memex/Thoughts/Thoughts%20on%20AI/) offered a detailed thought about AI and what it can do. She is scared at the problem of ethics with the use of AI, such as with the deepfakes of unknowing people for pornography purposes. She also talks about her worries with AI written essays and its implication of education. With AI becoming increasingly more accessible, anyone will be able to use these tools with a few clicks. I am then thinking: What are we then learning when we are letting AIs do all our works and homeworks? How can we even prevent that without going in the extremist path of censorship and information control?
+- Eric, in his [memex](https://glng3r.github.io/memex/%40crawfordAnatomyAI%20folder/Taking%20power%20from%20the%20User/), makes a really intriguing observation about the accessibility of AI in the context of Alexa. Here they states: "Alexa was designed so that anyone could intuitively use it without a shred of understanding how it works. That is the trend for a lot of new technologies these days, trying to take away as much control as possible from the user." **_Taking control from the user._** This phrase worries me because this means that the price of accessibility with these tools results in us no longer having power over them. By not understanding these "accessible" tools, the user only see what it can do, but not what it *can really* do (like Alexa eavesdropping constantly or applications taking control of camera on phone).
+- AI are machine, do machine have human rights or any rights? If its the AI performing the deed, does it fall on the initiator or the fabricator? The ethics of AI are still heavily debated and researched today and will continue to do so as AI practices continues to shift. [Laura Martin's "Article intellingence and human rights"](https://www.jstor.org/stable/j.ctv282jgff) tries to reconsider AI and human rights. These academic researches are important as we are in a desire need to establish ethical boundaries for AI before its too late. Remember what MacDougall said: "We shape our tools, and our tools shapes us back." If we wait too long, we won't be able to see what could have been instead of what is. 
