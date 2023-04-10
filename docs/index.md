@@ -4,7 +4,9 @@
 
 *Hopefully I don't break your mind, but here is how the memex is mapped:*
 
+![memexmap](mapofmemex3.jpg)
 
+Notice the nodes with the most links: [[Agency]] and [[Control]]. These two nodes describe the internet as a tool of political control backed by the agency of its creators and engineers. 
 
 ---
 ## Sources
