@@ -4,7 +4,7 @@
 
 *Hopefully I don't break your mind, but here is how the memex is mapped:*
 
-![Map of Memex](mapofmemex2.jpg)
+
 
 ---
 ## Sources
@@ -27,11 +27,11 @@
 
 #### Part 3:
 
-- [[@mulvenonGoldenShieldsPanopticons2008]]
 - [[@denningARPANETTwentyYears1991]]
+- [[@knightInternetTopologyZoo2011]]
 - [[@evolutionInternet2010]]
 - [[@macDougallKillerApp2014]]
-- [[@knightInternetTopologyZoo2011]]
+- [[@mulvenonGoldenShieldsPanopticons2008]]
 
 How do these sources relate to each other? [[memex3_sources_link]]
 
@@ -100,6 +100,7 @@ In this section, I'd like to highlight topics and key concept about the internet
 #### Memex 3
 
 - [[People_and_the_network]]
+- [[AI]]
 
 ---
 ## Feedback from Memex 1
