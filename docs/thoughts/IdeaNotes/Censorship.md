@@ -8,7 +8,7 @@ project: Memex 3
 tags:: Memex3, control, politics, censorship, power, agency
 
 - Censorship is when a society suppresses information that could threatened its society politically. What happens when information is censored? Is it even possible for information to be without some form of censorship? Like authors unintentionally leaving context which then transforms how the information is received. Censorship is in this way connected to the [[Agency]] and intention of the publisher. It is about preserving the power of the government and controlling the masses. 
-
+- After all, the internet is shaped for and by the people: [[People_and_the_network]].
 ---
 
 - [[@mulvenonGoldenShieldsPanopticons2008]]

@@ -105,6 +105,13 @@ In this section, I'd like to highlight topics and key concept about the internet
 - [[AI]]
 
 ---
+
+## Journey through my memex
+
+- [[0_Final_Journey_1]]
+- [[0_Final_Journey_2]]
+
+---
 ## Feedback from Memex 1
 
 - Greater emphasis on linking readings to the course and contradictions
@@ -120,7 +127,6 @@ In this section, I'd like to highlight topics and key concept about the internet
 ## To do 
 
 - Well, this is where the memex stops! (at least for now)
-- Reconsider the notes into a final journey entry
 - Continue looking at the internet (all the oddities that comes with it) with a critical eye
 
 ---

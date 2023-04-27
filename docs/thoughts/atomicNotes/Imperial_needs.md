@@ -19,5 +19,7 @@ The telegraph connected Imperial Europe and North America, but in doing so, caus
 
 The emergence of the internet is highly imperialist, and thus was based on imperial needs: [[Imperialist_internet]]
 
+Imperialist needs calls for power and control: [[Control]]
+
 ---
 
