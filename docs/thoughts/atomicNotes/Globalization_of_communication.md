@@ -19,8 +19,9 @@ tags:: Memex2, globalization, communication, control, imperialism, politics, tel
 
 ### Related Links
 
-Globalization is not without [[Agency]]
+Globalization is not without [[Agency]], [[Politics_of_communication]]
 
 Globalization is built on imperial needs and wants: [[Imperial_needs]]
+
 
 ---

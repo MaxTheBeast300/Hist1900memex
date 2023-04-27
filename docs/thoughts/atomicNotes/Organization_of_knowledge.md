@@ -25,4 +25,6 @@ The historical control and cataloguing of information: [[@shivkumarClayTabletsWe
 
 How are archives organized? [[Archives]]
 
+[[Globalization_of_communication]]
+
 ---
