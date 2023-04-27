@@ -1,5 +1,9 @@
 
-## The Journey Between website/sourceNotes/@shivkumarClayTabletsWeb2013 and website/thoughts/atomicNotes/Politics_of_communication
+# Did I meet my goals for this course?
+
+---
+
+## The Journey Between [[@shivkumarClayTabletsWeb2013]] and [[Politics_of_communication]]
 
 - [[@shivkumarClayTabletsWeb2013]]
 - [[Organization_of_knowledge]]
@@ -8,8 +12,6 @@
 
 ---
 
-# Did I meet my goals for this course?
-
 ## What were my goals?
 
 When I first opened the class and did the tutorial, I was prompted with the question of what I wanted to learn in this class. As such, I wrote that I wanted to learn this:
@@ -17,6 +19,8 @@ When I first opened the class and did the tutorial, I was prompted with the ques
 >"What REALLY is the internet? That’s what I want to learn from the course. Internet has been part of my life as early as the day I breathe my first breath. Because of that, I took it for granted. It’s time I look at it a little closer.."
 
 It can then be summarized that my goal for this course was to reconsider what I initially thought of the internet, and I'd like to say that I was successfully convinced otherwise. 
+
+---
 
 ## Did I meet them?
 
@@ -34,6 +38,10 @@ The third note highlights the important impact of the [[Globalization_of_communi
 
 The final note brings us to the [[Politics_of_communication]], narrating its power in controlling information. With communications being globalized, it was now easier to control and monopolize these networks. The internet is therefore a political invention in a way; one that was born on the need to better classify and transfer information and improve communication. Although this journey does not specifically involve the digital internet itself, the internet can be understood when looked at what shaped it to be what it came to be. 
 
+---
+
 ## What could have changed and conclusive thoughts
 
 While I did capture the big ideas, I failed to connect the smaller ones in my memex. Because I went into the course thinking it was going to be more about the digital internet itself, I was not trying to create many connections early on because it was not my focus. This lack of early gardening madeit difficult for me to find a focused path to demonstrate how my goals had been met. Perhaps if I had given a structure to my notes, like a chronological pattern, they could have flowed and connected better. Overall, I am still satisfied with what I got out of the course because it taught me that the internet was not about the product, but the process; a mindset that I should have adhered to much closely when creating this memex.
+
+---
